@@ -1,0 +1,26 @@
+number = int(input("Enter A Number Between 1 to 12: "))
+
+if number==1:
+   print("JANUARY")
+if number==2:
+   print("FEBUARY")
+if number==3:
+   print("MARCH")
+if number==4:
+   print("APRIL")
+if number==5:
+   print("MAY")
+if number==6:
+   print("JUNE")
+if number==7:
+   print("JULY")
+if number==8:
+   print("AUGUST")
+if number==9:
+   print("SEPTEMBER")
+if number==10:
+   print("OCTOBER")
+if number==11:
+   print("NOVEMBER")
+if number==12:
+   print("DECEMBER")
